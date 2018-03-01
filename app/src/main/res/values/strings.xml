@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">593-2.7-Quiz Estados y Capitales</string>
+
+    <string-array name="estados">
+        <item>Aguascalientes</item>
+        <item>Baja California</item>
+        <item>Campeche</item>
+        <item>Chiapas</item>
+        <item>Guerrero</item>
+        <item>México</item>
+        <item>Veracruz</item>
+        <item>Yucatán</item>
+
+    </string-array>
+
+    <string-array name="capitales">
+        <item>Aguascalientes</item>
+        <item>Mexicali</item>
+        <item>Campeche</item>
+        <item>Tuxtla Gutierrez</item>
+        <item>Chilpancingo</item>
+        <item>Toluca</item>
+        <item>Xalapa</item>
+        <item>Mérida</item>
+    </string-array>
+</resources>
